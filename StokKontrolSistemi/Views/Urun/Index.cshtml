@@ -1,0 +1,180 @@
+﻿@model List<StokKontrolSistemi.Entities.Urunler>
+@using (Html.BeginForm())
+{
+    <div style="margin-top: 20px;">
+     
+        <div class="container">
+            <div style="width: 45%; float: left; text-align: left; display: flex; align-items: center;">
+                @Html.TextBox("ara", null, new { @class = "form-control", @placeholder = "Ürün adı veya açıklama ile arayınız", @style = "height: 30px; margin-right: 10px; width: 100%;" })
+            </div>
+            <div style="float: left; margin-left: 10px;">
+                <input type="submit" name="btn" value="Ara" class="btn btn-info" style="height: 30px; line-height: 30px;" />
+            </div>
+        </div>
+    </div>
+   
+}
+
+<br />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Colorlib Templates">
+    <meta name="author" content="Colorlib">
+    <meta name="keywords" content="Colorlib Templates">
+
+   
+    <title>Ürünler</title>
+
+    
+    <link href="~/register/vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
+    <link href="~/register/vendor/font-awesome-4.7/css/font-awesome.min.css" rel="stylesheet" media="all">
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    
+    <link href="~/register/vendor/select2/select2.min.css" rel="stylesheet" media="all">
+    <link href="~/register/vendor/datepicker/daterangepicker.css" rel="stylesheet" media="all">
+
+  
+    <link href="~/register/css/main.css" rel="stylesheet" media="all">
+    <style>
+        html,
+        body {
+            height: 90%;
+            margin: 0;
+            padding: 0;
+        }
+
+
+        body {
+            background: #2c6ed5;
+            color: #fff; 
+            font-family: 'Poppins', sans-serif; /
+        }
+
+        .gradient-custom-1 {
+            padding: 20px;
+        }
+
+        table {
+            background-color: transparent !important;
+            border-collapse: separate;
+            border-spacing: 0;
+            border: 1px solid #ddd;
+            border-radius: 15px;
+            width: 100%;
+        }
+
+        th,
+        td {
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            overflow: hidden;
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+
+        th {
+            border-top: none;
+            background-color: #f2f2f2;
+        }
+
+        .table-responsive {
+            margin-top: 20px;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .close-btn {
+            float: right;
+            font-size: 24px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        tbody td {
+            font-weight: 500;
+            color: #999999;
+        }
+
+        .form-control {
+            width: 60px;
+        }
+
+        .form-check-label {
+            font-weight: normal;
+        }
+
+        .btn-primary {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <section class="intro custom-section">
+        <div class="gradient-custom-1 h-100">
+            <div class="mask d-flex align-items-start h-100">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-12">
+                            <div class="table-responsive bg-white">
+                                <table class="table mb-0">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">Resim</th>
+                                            <th scope="col">Ad</th>
+                                            <th scope="col">Açıklama</th>
+                                            <th scope="col">Fiyat</th>
+                                            <th scope="col">İçindekiler</th>
+                                            <th scope="col">Sil</th>
+                                            <th scope="col">Düzenle</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var item in Model)
+                                        {
+                                            <tr>
+                                                <td><img src="/Login/images/@item.Picture" width="80" height="80"></td>
+                                                <td>@item.Name</td>
+                                                <td>@item.Description</td>
+                                                <td>@item.Price</td>
+                                                <td>@item.Icindekiler</td>
+
+                                                <td>
+                                                    @Html.ActionLink(
+                                                "Sil",
+                                                "Sil",
+                                                new { id = item.UrunID },
+                                                new { @class = "btn btn-danger", onclick = "return confirm('Silmek İstiyor Musunuz?');" }
+                                                )
+                                                </td>
+                                                <td>
+                                                    @Html.ActionLink("Düzenle", "Guncelle", new { id = item.UrunID }, new { @class = "btn btn-warning" })
+                                                </td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="text-center mt-3">
+                                <a href="/Urun/Ekle" class="btn btn-danger btn-lg">Ürün Ekle</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="~/register/vendor/jquery/jquery.min.js"></script>
+ 
+    <script src="~/register/vendor/select2/select2.min.js"></script>
+    <script src="~/register/vendor/datepicker/moment.min.js"></script>
+    <script src="~/register/vendor/datepicker/daterangepicker.js"></script>
+
+  
+    <script src="~/register/js/global.js"></script>
+</body>
+</html>

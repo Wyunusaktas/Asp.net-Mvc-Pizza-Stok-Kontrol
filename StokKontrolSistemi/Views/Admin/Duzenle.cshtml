@@ -1,0 +1,116 @@
+﻿@model StokKontrolSistemi.Entities.Kullanici
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Colorlib Templates">
+    <meta name="author" content="Colorlib">
+    <meta name="keywords" content="Colorlib Templates">
+
+   
+    <title>Güncelleme Ekranı</title>
+
+   
+    <link href="~/register/vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
+    <link href="~/register/vendor/font-awesome-4.7/css/font-awesome.min.css" rel="stylesheet" media="all">
+    
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    
+    <link href="~/register/vendor/select2/select2.min.css" rel="stylesheet" media="all">
+    <link href="~/register/vendor/datepicker/daterangepicker.css" rel="stylesheet" media="all">
+
+    
+    <link href="~/register/css/main.css" rel="stylesheet" media="all">
+    <style>
+        .close-btn {
+            float: right;
+            font-size: 24px; 
+            font-weight: bold;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    @if (TempData["AlertMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["AlertMessage"]
+            <span class="close-btn" onclick="this.parentElement.style.display='none';">&times;</span>
+        </div>
+    }
+    <div class="page-wrapper bg-blue p-t-100 p-b-100 font-poppins">
+        <div class="wrapper wrapper--w680">
+            <div class="card card-4">
+                <div class="card-body">
+                    <h2 class="title">Kullanıcı Güncelleme Ekranı</h2>
+                    <form asp-action="Duzenle" asp-route-id="@Model.Id" method="post">
+                        @Html.AntiForgeryToken()
+
+                        <div class="form-group">
+                            <label asp-for="Name">Ad:</label>
+                            <input asp-for="Name" class="form-control" />
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="SurName">Soyad:</label>
+                            <input asp-for="SurName" class="form-control" />
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Email">Email:</label>
+                            <input asp-for="Email" class="form-control" />
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Password">Şifre:</label>
+                            <input asp-for="Password" class="form-control" />
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Username">Kullanıcı Adı:</label>
+                            <input asp-for="Username" class="form-control" />
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="State">Rolü:</label>
+                            <input asp-for="State" class="form-control" />
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Locked">Kilit:</label>
+                            <div class="form-check">
+                                <input asp-for="Locked" class="form-check-input" />
+                                <label class="form-check-label" asp-for="Locked">Kilitlensin mi?</label>
+                            </div>
+                        </div>
+                     
+
+
+                                    <div class="row mt-3"></div>
+
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="container">
+                                                <button class="btn btn-primary" type="submit">Kaydet</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <script src="~/register/vendor/jquery/jquery.min.js"></script>
+      
+        <script src="~/register/vendor/select2/select2.min.js"></script>
+        <script src="~/register/vendor/datepicker/moment.min.js"></script>
+        <script src="~/register/vendor/datepicker/daterangepicker.js"></script>
+
+       
+        <script src="~/register/js/global.js"></script>
+
+</body>
+
+</html>

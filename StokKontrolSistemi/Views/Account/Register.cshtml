@@ -1,0 +1,123 @@
+﻿@model RegisterViewModels
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Colorlib Templates">
+    <meta name="author" content="Colorlib">
+    <meta name="keywords" content="Colorlib Templates">
+
+   
+    <title>Kayıt Ekranı</title>
+
+   
+    <link href="~/register/vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
+    <link href="~/register/vendor/font-awesome-4.7/css/font-awesome.min.css" rel="stylesheet" media="all">
+   
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    
+    <link href="~/register/vendor/select2/select2.min.css" rel="stylesheet" media="all">
+    <link href="~/register/vendor/datepicker/daterangepicker.css" rel="stylesheet" media="all">
+
+   
+    <link href="~/register/css/main.css" rel="stylesheet" media="all">
+    <style>
+        .close-btn {
+            float: right;
+            font-size: 24px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["ErrorMessage"]
+            <span class="close-btn" onclick="this.parentElement.style.display='none';">&times;</span>
+        </div>
+    }
+    <div class="page-wrapper bg-gra-02 p-t-100 p-b-100 font-poppins">
+        <div class="wrapper wrapper--w680">
+            <div class="card card-4">
+                <div class="card-body">
+                    <h2 class="title">Kayıt Ekranı</h2>
+                    <div asp-validation-summary="ModelOnly" class="text-danger small"></div>
+                    <form method="POST">
+                        <div class="row row-space">
+                            <div class="col-2">
+                                <div class="input-group">
+                                    <label asp-for="name" class="label">Ad</label>
+                                    <input asp-for="name" class="input--style-4" type="text" name="Name">
+                                    <span asp-validation-for="name" class="text-danger small"></span>
+                                    
+                                </div>
+                            </div>
+                            <div class="col-2">
+                                <div class="input-group">
+                                    <label asp-for="Surname" class="label">Soyad</label>
+                                    <input asp-for="Surname" class="input--style-4" type="text" name="SurName">
+                                    <span asp-validation-for="Surname" class="text-danger small"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row row-space">
+                            <div class="col-2">
+                                <div class="input-group">
+                                    <label asp-for="Email" class="label">Email</label>
+                                    <input asp-for="Email" class="input--style-4" type="email" name="Email">
+                                    <span asp-validation-for="Email" class="text-danger small"></span>
+                                </div>
+                            </div>
+                            <div class="col-2">
+                                <div class="input-group">
+                                    <label asp-for="Username"  class="label">Kullanıcı Adı</label>
+                                    <input asp-for="Username" class="input--style-4" type="text" name="Username">
+                                    <span asp-validation-for="Username" class="text-danger small"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row row-space">
+                            <div class="col-2">
+                                <div class="input-group">
+                                    <label asp-for="Password" class="label">Şifre</label>
+                                    <input asp-for="Password" class="input--style-4" type="password" name="Password">
+                                    <span asp-validation-for="Password" class="text-danger small"></span>
+                                </div>
+                            </div>
+                            <div class="col-2">
+                                <div class="input-group">
+                                    <label asp-for="RePassword" class="label">Şifre Tekrarı</label>
+                                    <input asp-for="RePassword" class="input--style-4" type="password" name="RePassword">
+                                    <span asp-validation-for="RePassword" class="text-danger small"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="p-t-15">
+                            <button class="btn btn--radius-2 btn--blue" type="submit">Kaydol</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="~/register/vendor/jquery/jquery.min.js"></script>
+  
+    <script src="~/register/vendor/select2/select2.min.js"></script>
+    <script src="~/register/vendor/datepicker/moment.min.js"></script>
+    <script src="~/register/vendor/datepicker/daterangepicker.js"></script>
+
+   
+    <script src="~/register/js/global.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+﻿<label class="label-styled">@Model</label>
+<style>
+    .label-styled {
+        color: red;
+        display: inline-block;
+        margin: 0.1px; /* Margin değeri azaltıldı */
+        padding: 0.1px; /* Padding değeri azaltıldı */
+        border: 1px solid red;
+        border-radius: 5px;
+        position: relative;
+        animation: moveRightAndRotate 2s infinite;
+    }
+
+    @@-webkit-keyframes moveRightAndRotate {
+        0% {
+            transform: translateX(0) rotate(0deg);
+        }
+        50% {
+            transform: translateX(10px) rotate(25deg);
+        }
+        100% {
+            transform: translateX(0) rotate(0deg);
+        }
+    }
+</style>

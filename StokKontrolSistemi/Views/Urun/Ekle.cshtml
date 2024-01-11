@@ -1,0 +1,130 @@
+﻿@model UrunViewModel
+@using (Html.BeginForm("Ekle", "Urun", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+       
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="Colorlib Templates">
+        <meta name="author" content="Colorlib">
+        <meta name="keywords" content="Colorlib Templates">
+
+       
+        <title>Ürün Ekleme Ekranı</title>
+
+      
+        <link href="~/register/vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
+        <link href="~/register/vendor/font-awesome-4.7/css/font-awesome.min.css" rel="stylesheet" media="all">
+        
+        <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+      
+        <link href="~/register/vendor/select2/select2.min.css" rel="stylesheet" media="all">
+        <link href="~/register/vendor/datepicker/daterangepicker.css" rel="stylesheet" media="all">
+
+       
+        <link href="~/register/css/main.css" rel="stylesheet" media="all">
+        <style>
+            .close-btn {
+                float: right;
+                font-size: 24px; 
+                font-weight: bold;
+                cursor: pointer;
+            }
+        </style>
+    </head>
+
+    <body>
+        @if (TempData["AlertMessage"] != null)
+        {
+            <div class="alert alert-success">
+                @TempData["AlertMessage"]
+                <span class="close-btn" onclick="this.parentElement.style.display='none';">&times;</span>
+            </div>
+        }
+        @if (TempData["ErrorMessage"] != null)
+        {
+            <div class="alert alert-danger">
+                @TempData["ErrorMessage"]
+                <span class="close-btn" onclick="this.parentElement.style.display='none';">&times;</span>
+            </div>
+        }
+
+        <div class="page-wrapper bg-blue p-t-100 p-b-100 font-poppins">
+            <div class="wrapper wrapper--w680">
+                <div class="card card-4">
+                    <div class="card-body">
+                        <h2 class="title">Ürün Ekleme Ekranı</h2>
+                        <div asp-validation-summary="ModelOnly" class="text-danger small"></div>
+                        <form method="POST">
+                            <div class="row ">
+                                <div class="form-group">
+                                    <label asp-for="Name">Ad</label>
+                                    <input asp-for="Name" type="text" name="Name" class="form-control" />
+                                    <span asp-validation-for="Name" class="text-danger small"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Description">Açıklama</label>
+                                    <input asp-for="Description" type="text" name="Description" class="form-control" />
+                                    <span asp-validation-for="Description" class="text-danger small"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Price">Fiyat</label>
+                                    <input asp-for="Price" type="text" name="Price" class="form-control" />
+                                    <span asp-validation-for="Price" class="text-danger small"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="ResimDosyasi">Resim</label>
+                                    <input asp-for="ResimDosyasi" type="file" name="ResimDosyasi" class="form-control" />
+                                    <span asp-validation-for="ResimDosyasi" class="text-danger small"></span>
+                                </div>
+
+                                <div class="form-group">
+                                    <label>Kategori</label>
+                                    @Html.DropDownListFor(model => model.SecilenKategoriId, Model.Kategoriler, "Bir Kategori Seçiniz", new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.SecilenKategoriId, "", new { @class = "text-danger" })
+                                </div>
+                                <div class="form-group">
+                                    <label>İçindekiler</label>
+                                    @Html.DropDownListFor(model => model.SecilenIcindekiID, Model.Icındekiler, "Recete Seçiniz", new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.SecilenIcindekiID, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="form-group">
+                                   
+                                    <ul>
+                                        @foreach (var malzeme in Model.Malzemeler)
+                                        {
+                                            <li>@malzeme.MalzemeAdı</li>
+                                        }
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="text-center mt-4">
+                                <button class="btn btn-primary" type="submit">Ekle</button>
+                                <a href="/Urun/Index" class="btn btn-secondary ml-2">Ürünleri Listele</a>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+       
+        <script src="~/register/vendor/jquery/jquery.min.js"></script>
+       
+        <script src="~/register/vendor/select2/select2.min.js"></script>
+        <script src="~/register/vendor/datepicker/moment.min.js"></script>
+        <script src="~/register/vendor/datepicker/daterangepicker.js"></script>
+
+     
+        <script src="~/register/js/global.js"></script>
+
+    </body>
+
+    </html>
+}

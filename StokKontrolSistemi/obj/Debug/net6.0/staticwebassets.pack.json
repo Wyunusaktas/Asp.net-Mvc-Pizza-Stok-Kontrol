@@ -1,0 +1,1641 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\.nuget\\packages\\bootstrap\\5.3.2\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\StokKontrolSistemi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StokKontrolSistemi.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\css\\main.css",
+      "PackagePath": "staticwebassets\\Login\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\css\\util.css",
+      "PackagePath": "staticwebassets\\Login\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\images\\092b333d-9974-4d3f-b7ff-d6ab94fee592_pizza1.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\092b333d-9974-4d3f-b7ff-d6ab94fee592_pizza1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\images\\0945ad2b-b4fa-4893-a0b9-ae4efc7d614d_download.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\0945ad2b-b4fa-4893-a0b9-ae4efc7d614d_download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\images\\2bff7dac-2f3b-4767-97df-4da275cf531e_download.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\2bff7dac-2f3b-4767-97df-4da275cf531e_download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\images\\71a58adc-0b43-4789-8e33-f7a1699344e5_download.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\71a58adc-0b43-4789-8e33-f7a1699344e5_download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\images\\7b6d50e7-f8e6-4b19-8702-ac6f771de282_download.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\7b6d50e7-f8e6-4b19-8702-ac6f771de282_download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\images\\83e501e4-45ac-4a84-baac-4e9cf4687a36_pizza3.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\83e501e4-45ac-4a84-baac-4e9cf4687a36_pizza3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\images\\8ee4e8c8-d8d6-4d18-a2f5-e199908b8e75_pizza2.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\8ee4e8c8-d8d6-4d18-a2f5-e199908b8e75_pizza2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\images\\b78af155-c053-4209-8cb2-b5f9fbbb47a2_download.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\b78af155-c053-4209-8cb2-b5f9fbbb47a2_download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\images\\cff3210e-2cf1-4c1c-ae17-6ca2ba4ff490_download.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\cff3210e-2cf1-4c1c-ae17-6ca2ba4ff490_download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\images\\d1acb391-83c9-4318-aab7-2e5e95e5d47a_download.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\d1acb391-83c9-4318-aab7-2e5e95e5d47a_download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\Login\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\images\\pizzacı.png",
+      "PackagePath": "staticwebassets\\Login\\images\\pizzacı.png"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\index.html",
+      "PackagePath": "staticwebassets\\Login\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\js\\main.js",
+      "PackagePath": "staticwebassets\\Login\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Login\\vendor\\tilt\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\tilt\\tilt.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\Uploads\\deneme.xlsx",
+      "PackagePath": "staticwebassets\\Uploads\\deneme.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\css\\main.css",
+      "PackagePath": "staticwebassets\\register\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\index.html",
+      "PackagePath": "staticwebassets\\register\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\js\\global.js",
+      "PackagePath": "staticwebassets\\register\\js\\global.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\readme.txt",
+      "PackagePath": "staticwebassets\\register\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\datepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\register\\vendor\\datepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\datepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\register\\vendor\\datepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\datepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\register\\vendor\\datepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\font-awesome-4.7\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\register\\vendor\\font-awesome-4.7\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\font-awesome-4.7\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\register\\vendor\\font-awesome-4.7\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\font-awesome-4.7\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\register\\vendor\\font-awesome-4.7\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\font-awesome-4.7\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\register\\vendor\\font-awesome-4.7\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\register\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\register\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\register\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\register\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\register\\vendor\\font-awesome-4.7\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\register\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\register\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\mdi-font\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\register\\vendor\\mdi-font\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\mdi-font\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\register\\vendor\\mdi-font\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\register\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\register\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\register\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\register\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\register\\vendor\\mdi-font\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\register\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\register\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\register\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02.zip",
+      "PackagePath": "staticwebassets\\table-02.zip"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\.DS_Store",
+      "PackagePath": "staticwebassets\\table-02\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\table-02\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\table-02\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\css\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\table-02\\css\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\css\\bootstrap\\_media.css",
+      "PackagePath": "staticwebassets\\table-02\\css\\bootstrap\\_media.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\css\\bootstrap\\mixins\\.DS_Store",
+      "PackagePath": "staticwebassets\\table-02\\css\\bootstrap\\mixins\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\css\\bootstrap\\mixins\\_border-radius.css",
+      "PackagePath": "staticwebassets\\table-02\\css\\bootstrap\\mixins\\_border-radius.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\css\\bootstrap\\mixins\\_screen-reader.css",
+      "PackagePath": "staticwebassets\\table-02\\css\\bootstrap\\mixins\\_screen-reader.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\css\\bootstrap\\mixins\\_visibility.css",
+      "PackagePath": "staticwebassets\\table-02\\css\\bootstrap\\mixins\\_visibility.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\css\\bootstrap\\utilities\\_stretched-link.css",
+      "PackagePath": "staticwebassets\\table-02\\css\\bootstrap\\utilities\\_stretched-link.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\css\\style.css",
+      "PackagePath": "staticwebassets\\table-02\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\table-02\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\table-02\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\index.html",
+      "PackagePath": "staticwebassets\\table-02\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\table-02\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\table-02\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\table-02\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\js\\main.js",
+      "PackagePath": "staticwebassets\\table-02\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\js\\popper.js",
+      "PackagePath": "staticwebassets\\table-02\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\main.html",
+      "PackagePath": "staticwebassets\\table-02\\main.html"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\table-02\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Yunus\\Desktop\\StokKontrolSistemi\\StokKontrolSistemi\\wwwroot\\table-02\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\table-02\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.StokKontrolSistemi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.StokKontrolSistemi.props",
+      "PackagePath": "build\\StokKontrolSistemi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.StokKontrolSistemi.props",
+      "PackagePath": "buildMultiTargeting\\StokKontrolSistemi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.StokKontrolSistemi.props",
+      "PackagePath": "buildTransitive\\StokKontrolSistemi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
